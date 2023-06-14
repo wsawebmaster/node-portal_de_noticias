@@ -1,8 +1,31 @@
 # Curso de NodeJS (Portal de Notícias)
 
-Express: Framework
-EJS: Módulo que permite escrever códigos html dinâmicos, deixando em uma estrutura a parte para que possa renderizar.
 
+✔ Ganhando produtividade com o NPM,  Express, EJS e Nodemon
+
+✔ Modulando nosso projeto com CommonJS
+
+✔ Conectando ao banco de dados MySQL
+
+✔ Models e ganhando produtividade com Consign (sucessor do Express-Load)
+
+✔ Recebendo dados de formulários com Body-parser
+
+✔ Implementando classes em JavaScript
+
+✔ Ganhando produtividade com o Express Validator
+
+✔ Implementando controllers e entendendo o designer pattern MVC
+
+✔ Utilizando recursos estáticos como imagens, arquivos de estilo e scripts
+
+
+<strong>Express: </strong>Framework
+
+<strong>EJS: </strong>Módulo que permite escrever códigos html dinâmicos, deixando em uma estrutura a parte para que possa renderizar.
+
+## NodeJS
+Necessário baixar e instalar o NodeJS
 ## Nodemon
 `npm install -g nodemon` - Instala o Nodemon
 
@@ -111,4 +134,7 @@ Antes de realizar testes de inserção de dados é necessário
 
 <hr>
 Para iniciar execução do projeto você precisa seguir os passos anteriores executando o comando
+
 `nodemon app`
+
+<strong>Obs.:</strong> Projeto desenvolvido utilizando banco de dados local.
